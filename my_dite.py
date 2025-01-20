@@ -1,0 +1,9 @@
+my_dite={"name":"ali","age":"10","class":"fifth"}
+print(my_dite)
+print(my_dite["name"])
+print(my_dite["age"])
+print(my_dite["class"])
+my_dite["marks"]="100%"
+print(my_dite)
+my_dite["bith"]="01:24:2015"
+print(my_dite)
